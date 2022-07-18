@@ -23,7 +23,7 @@ The app can run in two different modes:
 
 <p align="center">
 
-<img src="./screenshots/Screen%20Shot%202022-07-17%20at%203.08.48%20PM.png)" />
+<img src="./screenshots/Screen%20Shot%202022-07-17%20at%203.08.48%20PM.png" />
 <br />
 (React DevTools doesn't work in this mode)
 </p>
