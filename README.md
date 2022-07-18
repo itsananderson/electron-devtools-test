@@ -7,20 +7,23 @@ The app can run in two different modes:
 
 1) Loading content over http (using the Webpack dev server)
 
-
-![](./screenshots/Screen%20Shot%202022-07-17%20at%203.03.20%20PM.png)
-
 <p align="center">
+![](./screenshots/Screen%20Shot%202022-07-17%20at%203.03.20%20PM.png)
 (React DevTools works in this mode)
 </p>
+<br />
+<br />
+<br />
 
 2) Loading content over a custom `local-scheme` URL
 
-![](./screenshots/Screen%20Shot%202022-07-17%20at%203.08.48%20PM.png)
-
 <p align="center">
+![](./screenshots/Screen%20Shot%202022-07-17%20at%203.08.48%20PM.png)
 (React DevTools doesn't work in this mode)
 </p>
+<br />
+<br />
+<br />
 
 To switch between the two modes, locate and change the `TEST_LOCAL_SCHEME` constant in `src/indes.ts`
 
