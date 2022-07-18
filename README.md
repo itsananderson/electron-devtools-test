@@ -37,3 +37,15 @@ React DevTools uses a background script to do some additional coordination (I ha
 However, under the custom scheme that script doesn't appear to be loaded
 
 ![](screenshots/Screen Shot 2022-07-17 at 3.09.04 PM.png)
+
+Running App
+---
+
+```
+yarn install
+yarn start
+
+# change TEST_LOCAL_SCHEME value to test other setup...
+
+yarn start
+```
